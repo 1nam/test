@@ -1,3 +1,5 @@
+# i am just learning python trying new things i can do. 
+# pick letters out of a sentance and spell your name.
 # []   is an index
 # [0]  adding a number counts letters in phrase
 #  0   python starts counting at zero.
